@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: Local, National, & Global Daily Weather",
+  "Type": "Screen",
+  "Id": "PNKuo4B5XUOxUM6cLLam2w",
+  "Reference": "uXCo1HYtOEec5ciefe-HLw/PNKuo4B5XUOxUM6cLLam2w",
+  "ParentRef": "uXCo1HYtOEec5ciefe-HLw/sSuAJM_d5EmUS0OIpe06AA",
+  "Created": "2025-01-05T16:49:11.7978698Z",
+  "Updated": "2025-01-05T16:49:11.7978698Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "AccuWeather",
+  "Type": "App",
+  "Id": "QmBXqFq1mEKz3d5w9vAokQ",
+  "Reference": "uXCo1HYtOEec5ciefe-HLw/QmBXqFq1mEKz3d5w9vAokQ",
+  "Created": "2024-05-29T05:00:33.7523314Z",
+  "Updated": "2025-01-05T16:49:11.705234Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "UpdatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

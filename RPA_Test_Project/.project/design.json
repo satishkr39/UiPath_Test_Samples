@@ -1,0 +1,10 @@
+{
+  "Tags": [
+    {
+      "Key": "TestProject"
+    }
+  ],
+  "SeparateRuntimeDependencies": true,
+  "IncludeSources": true,
+  "ConnectorKeys": []
+}

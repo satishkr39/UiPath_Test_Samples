@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge: UiBank-Loan Apply",
+  "Type": "Screen",
+  "Id": "hk5Ooz0hWUqB4wvmI9B_OA",
+  "Reference": "uXCo1HYtOEec5ciefe-HLw/hk5Ooz0hWUqB4wvmI9B_OA",
+  "ParentRef": "uXCo1HYtOEec5ciefe-HLw/GDruEBp_8E623ied5JIUgA",
+  "Created": "2025-01-14T00:23:32.9203636Z",
+  "Updated": "2025-01-14T00:23:32.9203636Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

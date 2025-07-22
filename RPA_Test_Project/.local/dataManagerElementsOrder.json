@@ -1,0 +1,264 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&b32d69ae-1e85-44d8-9d3f-dd20ad396a7a",
+        "a&Sequence_1",
+        "b&Sequence_1",
+        "variable1&Sequence_1",
+        "variable2&Sequence_1",
+        "ExceptionType&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Fetch_Accuweather_Month_Data.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "TempTable&Sequence_2",
+        "MyName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AddItemToQueue.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GetItemFromQueue.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "QueueItem&Sequence_1",
+        "LastName&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GetTransactionItem.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "FirstTrxItem&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AddTrxItem.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Exception.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_ExcelData&Sequence_4",
+        "GlobalVariable&7679514f-b501-41fe-b839-1cb7d6f65d82"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "GlobalHandler.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&e2906415-d153-40a8-b601-9a9a01b1459c",
+        "answer&Sequence_1",
+        "retry&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "errorInfo",
+        "result"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "CitrixAutomation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Assets.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "AssetValue&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Selectors.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "SimulateEnterKey.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestAnyActivity.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&86be3897-f861-4d1c-8b0a-5bb87fa279bf",
+        "mypassword&Sequence_1",
+        "MyPath&Sequence_1",
+        "outputElement&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [
+        "monly",
+        "shiftM"
+      ],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "HoverableElemenSelection.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&0a70034a-7198-4cc3-8ab2-59712dee984b"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "StringManipulation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&86be3897-f861-4d1c-8b0a-5bb87fa279bf",
+        "FormatString&Sequence_2",
+        "InitialString&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExtractEmailFromString.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&d9959a2b-083f-44db-a6c4-292e15b0675d",
+        "FinalEmailPart2&Sequence_2",
+        "EmailPart2Space&Sequence_2",
+        "EmailPart2&Sequence_2",
+        "EmailPart1&Sequence_2",
+        "FindAtRate&Sequence_2",
+        "EmailID&Sequence_2",
+        "FinalString&Sequence_2",
+        "InitialString&Sequence_2",
+        "GlobalVariable&86be3897-f861-4d1c-8b0a-5bb87fa279bf"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MovieChallenge.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractedText&Sequence_3",
+        "MovieName&Sequence_3",
+        "GlobalVariable&31a5a181-0f86-49d1-936f-4026a9d6c063"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ACME_Employee.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ExtractedName&Sequence_3",
+        "EmployeeName&Sequence_3",
+        "GlobalVariable&31a5a181-0f86-49d1-936f-4026a9d6c063"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "FilesAndFolderOperation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "ContractsFolderPath&Sequence_2",
+        "ExtractedFolderPath&Sequence_2",
+        "InputFolderPath&Sequence_2",
+        "FileInfo&Sequence_2",
+        "selectedFiles&Sequence_1",
+        "SelectedFile&Sequence_2",
+        "GlobalVariable&7679514f-b501-41fe-b839-1cb7d6f65d82"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "MailActivities.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&3a661b98-a3f3-4a4b-b12f-e950fd2c98a2",
+        "emailAccount&Sequence_9",
+        "EmailList&Sequence_9"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExtractData.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "GlobalVariable&d9959a2b-083f-44db-a6c4-292e15b0675d"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ExcelActivity.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    }
+  ]
+}

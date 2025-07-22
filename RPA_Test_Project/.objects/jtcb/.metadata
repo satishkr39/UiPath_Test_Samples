@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge: UiBank-Loan Apply",
+  "Type": "App",
+  "Id": "jtcbwE9cA0yYj4nw8zbT7Q",
+  "Reference": "uXCo1HYtOEec5ciefe-HLw/jtcbwE9cA0yYj4nw8zbT7Q",
+  "Created": "2025-01-14T00:23:32.8683575Z",
+  "Updated": "2025-01-14T00:23:32.8683575Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.4.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ClickMainLogo",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "fnxb5lA7REOYgF05ywTKQw",
+  "Reference": "uXCo1HYtOEec5ciefe-HLw/fnxb5lA7REOYgF05ywTKQw",
+  "ParentRef": "uXCo1HYtOEec5ciefe-HLw/PNKuo4B5XUOxUM6cLLam2w",
+  "Created": "2025-01-05T16:50:37.8813951Z",
+  "Updated": "2025-01-05T16:50:37.8813951Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=24.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
