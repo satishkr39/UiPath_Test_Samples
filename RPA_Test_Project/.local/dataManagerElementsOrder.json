@@ -134,7 +134,7 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "TestAnyActivity.xaml",
+      "Path": "SwitchActivity.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "GlobalVariable&86be3897-f861-4d1c-8b0a-5bb87fa279bf",
@@ -254,6 +254,32 @@
     },
     {
       "Path": "ExcelActivity.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "EmaiTesting.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "variable1&Sequence_5"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "TestActivity.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Datatable.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": null,
       "ArgumentsSectionElementsOrder": null,
