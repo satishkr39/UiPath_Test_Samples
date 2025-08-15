@@ -14,12 +14,11 @@
       "Path": "Main.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "variable1&Sequence_6",
+        "myvariable&Sequence_6",
         "GlobalVariable&b32d69ae-1e85-44d8-9d3f-dd20ad396a7a",
         "a&Sequence_1",
-        "b&Sequence_1",
-        "variable1&Sequence_1",
-        "variable2&Sequence_1",
-        "ExceptionType&Sequence_1"
+        "b&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
@@ -280,6 +279,24 @@
     },
     {
       "Path": "Datatable.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": null,
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "ListManipulation.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "EmployeeList&Sequence_4"
+      ],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": null,
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Dictionary.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": null,
       "ArgumentsSectionElementsOrder": null,

@@ -1,0 +1,24 @@
+{
+  "dataVariationFileInfo": [
+    {
+      "filePath": ".variations\\input_data_Sheet1.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\TestData_Tests.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\input_data_Sheet1_1.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\TestData_Tests_1.json",
+      "dataVariationType": "File"
+    },
+    {
+      "filePath": ".variations\\input_data_Sheet1_2.json",
+      "dataVariationType": "File"
+    }
+  ]
+}
